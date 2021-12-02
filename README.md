@@ -1,4 +1,4 @@
-# hse21_hw3!
+# hse21_hw3
 ![Снимок экрана от 2021-12-02 09-56-47](https://user-images.githubusercontent.com/93282657/144373759-769b62b0-9fc0-405c-aae5-bf14267e0efc.png)
 ![Снимок экрана от 2021-12-02 09-57-37](https://user-images.githubusercontent.com/93282657/144373794-484e8299-62bc-43c0-9a33-285987df4689.png)
 ![Снимок экрана от 2021-12-02 09-57-53](https://user-images.githubusercontent.com/93282657/144373804-2cec8cf1-77d7-4c61-95df-f7f8415991b8.png)
