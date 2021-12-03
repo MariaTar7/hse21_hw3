@@ -1,6 +1,5 @@
 # hse21_hw3
-Ссылка на гугл колаб часть 1: https://colab.research.google.com/drive/1qegLSkupT8BHYo8qQwciNg0ZUWLE_pw_#scrollTo=36R-JaNvTrOy
-
+Ссылка на гугл колаб часть 1: https://colab.research.google.com/drive/1qegLSkupT8BHYo8qQwciNg0ZUWLE_pw_?usp=sharing
 ![Снимок экрана от 2021-12-02 09-56-47](https://user-images.githubusercontent.com/93282657/144373759-769b62b0-9fc0-405c-aae5-bf14267e0efc.png)
 ![Снимок экрана от 2021-12-02 09-57-37](https://user-images.githubusercontent.com/93282657/144373794-484e8299-62bc-43c0-9a33-285987df4689.png)
 ![Снимок экрана от 2021-12-02 09-57-53](https://user-images.githubusercontent.com/93282657/144373804-2cec8cf1-77d7-4c61-95df-f7f8415991b8.png)
@@ -26,13 +25,23 @@ ID образца
 Кол-во и процент уникально откартированных чтений
 Общее кол-во чтений, которые попали на гены
 
-### Часть 2
+## Часть 2
+
+Ссылка на гугл колаб часть 2: https://colab.research.google.com/drive/1JRXAebUHkp-bH9HR4db-A4fcSgiIG6oh?usp=sharing
+
+Тепловая карта
 
 ![Снимок экрана от 2021-12-03 17-32-14](https://user-images.githubusercontent.com/93282657/144619871-fcdb722d-5096-4372-99cd-cf168e168f90.png) 
+
+MA-plot
 
 ![Снимок экрана от 2021-12-03 17-34-56](https://user-images.githubusercontent.com/93282657/144620288-3ee0a81c-6a06-4d61-8684-fbc54215a5d3.png)
 
 ![Снимок экрана от 2021-12-03 17-35-04](https://user-images.githubusercontent.com/93282657/144620300-c6205a10-3919-4e2c-a077-f020100e7c75.png)
+
+Графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах 
+(для нескольких генов, которые наиболее значимо поменяли свою экспрессию)
+
 
 ![Снимок экрана от 2021-12-03 17-35-25](https://user-images.githubusercontent.com/93282657/144620317-a53a8452-c3e0-49f6-9ca5-4f6614a98cd5.png) 
 
