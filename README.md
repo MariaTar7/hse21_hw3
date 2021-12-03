@@ -8,7 +8,7 @@
 ![Снимок экрана от 2021-12-02 09-59-23](https://user-images.githubusercontent.com/93282657/144373830-d4454f3d-51ee-4e4d-b654-d04d0af0d45f.png)
 
 ### Таблица
-Sample ID | type | total reads | mapped reads | unique mapped reads | matchings | unique mapped reads percent
+ID | Тип образца | Общее количество чтений | Успешно откартированных чтений | Уникально откартированных чтений | Чтений, попавших на гены | 
  --- |--- |--- |--- |--- | ---
 SRR3414629 | reprogramming | 21106089 | 20510113 | 18375888 | 16049609 |
 SRR3414630 | reprogramming | 15244711 | 14832680 | 13186139 | 11465324 |
